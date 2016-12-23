@@ -1,0 +1,40 @@
+{
+  "name": "bower-discover",
+  "version": "1.0.0",
+  "description": "Resolve paths to Bower components.",
+  "main": "bower-discover.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blankbox/bower-discover.git"
+  },
+  "keywords": [
+    "bower",
+    "path",
+    "resolve",
+    "gruntfile",
+    "main",
+    "helper",
+    "locator"
+  ],
+  "author": {
+    "name": "Darren Looby",
+    "email": "darren.looby@gmail.com",
+    "url": "http://www.github.com/blankbox"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blankbox/bower-discover/issues"
+  },
+  "homepage": "https://github.com/blankbox/bower-discover",
+  "maintainers": [
+    {
+      "name": "darrenlooby",
+      "email": "darren.looby@gmail.com"
+    }
+  ],
+  "dependencies": {
+  }
+}
